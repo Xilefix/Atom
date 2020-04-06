@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.10.17)  6 APR 2020 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.10.17)  6 APR 2020 17:22
 entering extended mode
-**C:/Users/Felix/github/Atom/Atom/test.tex
-(C:/Users/Felix/github/Atom/Atom/test.tex
+**C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.tex
+(C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 
@@ -1044,7 +1044,7 @@ File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodepartsevenbox=\box56
 \pgfnodepartsixbox=\box57
 \pgfnodepartfivebox=\box58
-))) (C:\Users\Felix\github\Atom\Atom\test.aux)
+))) (C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.aux)
 \openout1 = `test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -1077,8 +1077,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
 LaTeX Info: Redefining \nameref on input line 29.
-(C:\Users\Felix\github\Atom\Atom\test.out) (C:\Users\Felix\github\Atom\Atom\tes
-t.out)
+(C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out) (C:\User
+s\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out)
 \@outlinefile=\write4
 \openout4 = `test.out'.
 
@@ -1136,7 +1136,7 @@ G,.JBIG2,.JB2,.eps]
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 30.
 ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (C:\Users\Felix\github\Atom\Atom\test.toc
+) (C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.toc
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3.
 ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1188,7 +1188,7 @@ Package babel Info: Redefining ngerman shorthand "~
 {C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
-(C:\Users\Felix\github\Atom\Atom\test.aux)
+(C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
 Package rerunfilecheck Info: File `test.out' has not changed.
@@ -1197,12 +1197,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
  ) 
 Here is how much of TeX's memory you used:
  20158 strings out of 493305
- 405050 string characters out of 3129801
+ 405470 string characters out of 3129801
  577049 words of memory out of 3000000
  23365 multiletter control sequences out of 15000+200000
  32789 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,8n,81p,10095b,823s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,8n,81p,10123b,823s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-maths
 y.enc}{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-r
 m.enc}{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-e
