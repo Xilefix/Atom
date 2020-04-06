@@ -73,7 +73,7 @@ options:
     2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
 files:
   dicy-instance.yaml-ParsedYAML:
-    timeStamp: 2020-04-06T14:56:28.918Z
+    timeStamp: 2020-04-06T15:22:03.768Z
     jobNames: []
     value:
       severity: info
@@ -85,12 +85,12 @@ files:
     jobNames: []
     type: ParsedYAML
   test.tex-ParsedLaTeXMagic:
-    timeStamp: 2020-04-05T18:23:57.772Z
+    timeStamp: 2020-04-06T15:22:03.807Z
     jobNames: []
     value: {}
     type: ParsedLaTeXMagic
   'C:\Users\Felix\AppData\Roaming\dicy\config.yaml-ParsedYAML':
-    timeStamp: 2020-04-05T18:23:57.750Z
+    timeStamp: 2020-04-06T15:22:03.805Z
     jobNames: []
     value:
       synctex: true
@@ -134,26 +134,20 @@ files:
         2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
     type: ParsedYAML
   test.tex:
-    timeStamp: 2020-04-06T14:57:36.515Z
+    timeStamp: 2020-04-06T15:22:03.715Z
     jobNames: []
     hash: tQTq/F53b1x8LKYJMpz0qDN815neZwzNaxuQWBz7JuY=
     type: LaTeX
     subType: scrartcl
   'C:\Users\Felix\AppData\Roaming\dicy\config.yaml':
-    timeStamp: 2020-04-06T14:56:28.933Z
+    timeStamp: 2020-04-06T15:17:49.710Z
     jobNames: []
     type: YAML
   x.y-Nil:
     jobNames: []
     type: Nil
-  test.log:
-    timeStamp: 2020-04-06T14:57:39.945Z
-    jobNames: []
-    hash: YHeOGRK+Rx8UA2NUNO4sSU8mB/3fx+PPqT4/c64nUcE=
-    type: LaTeXLog
-    subType: pdfTeX
   test.fls-ParsedFileListing:
-    timeStamp: 2020-04-06T14:56:32.790Z
+    timeStamp: 2020-04-06T15:22:11.700Z
     jobNames: []
     value:
       messages: []
@@ -614,7 +608,7 @@ files:
       calls: []
     type: ParsedFileListing
   test.log-ParsedLaTeXLog:
-    timeStamp: 2020-04-06T14:56:32.819Z
+    timeStamp: 2020-04-06T15:22:11.772Z
     jobNames: []
     value:
       messages:
@@ -3127,28 +3121,34 @@ files:
         - test.pdf
       calls: []
     type: ParsedLaTeXLog
-  test.pdf:
-    timeStamp: 2020-04-06T14:57:39.941Z
-    jobNames: []
-    hash: LmvKX+0bfjBazCffIoXD7gqp/m3ycqe0ZRxrjWKtXZ8=
-    type: PortableDocumentFormat
   test.aux:
-    timeStamp: 2020-04-06T14:57:39.865Z
+    timeStamp: 2020-04-06T15:22:11.446Z
     jobNames: []
     hash: 6Al6Z/Qh2LTRexXteh0KKoEzcEQatiW2lV4awmHW/4M=
     type: LaTeXAuxilary
   test.fls:
-    timeStamp: 2020-04-06T14:57:39.964Z
+    timeStamp: 2020-04-06T15:22:11.558Z
     jobNames: []
-    hash: UioDmUNnPHihZbNYykjvkv2NE6cuI9msm3rTVu7kk+g=
+    hash: ELdTCCS1lZHu8rQ2cTUIJB4TWBgCpSyzAxpxH937FBA=
     type: FileListing
-  test.synctex.gz:
-    timeStamp: 2020-04-06T14:57:39.943Z
+  test.log:
+    timeStamp: 2020-04-06T15:22:11.550Z
     jobNames: []
-    hash: QkknocjExa4ojUjkaAjNgl03QPeT9D3cxSifgrKMHM0=
+    hash: LXG7OP8KW3iaI5gBEZXa1Lkzp3eBU2lV9u9n4yfXJiU=
+    type: LaTeXLog
+    subType: pdfTeX
+  test.synctex.gz:
+    timeStamp: 2020-04-06T15:22:11.547Z
+    jobNames: []
+    hash: 1zplSv4nHc0tlAxDO+1S3akSCYMtNdHLevCWWiMVoWQ=
     type: SyncTeX
+  test.pdf:
+    timeStamp: 2020-04-06T15:22:11.546Z
+    jobNames: []
+    hash: LmvKX+0bfjBazCffIoXD7gqp/m3ycqe0ZRxrjWKtXZ8=
+    type: PortableDocumentFormat
   test.aux-ParsedLaTeXAuxilary:
-    timeStamp: 2020-04-05T19:14:17.421Z
+    timeStamp: 2020-04-06T15:22:11.668Z
     jobNames: []
     value:
       commands:
@@ -3194,6 +3194,9 @@ files:
     timeStamp: 2009-10-07T18:04:00.000Z
     jobNames: []
   'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc':
+    timeStamp: 2009-10-07T18:04:00.000Z
+    jobNames: []
+  'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc':
     timeStamp: 2009-10-07T18:04:00.000Z
     jobNames: []
   'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc':
@@ -3260,6 +3263,9 @@ files:
     timeStamp: 2009-10-07T18:04:00.000Z
     jobNames: []
   'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb':
+    timeStamp: 2009-10-07T18:04:00.000Z
+    jobNames: []
+  'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb':
     timeStamp: 2009-10-07T18:04:00.000Z
     jobNames: []
   'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii':
@@ -3727,21 +3733,15 @@ files:
     jobNames: []
     type: LaTeXStyle
   test.out:
-    timeStamp: 2020-04-06T14:57:39.453Z
+    timeStamp: 2020-04-06T15:22:11.115Z
     jobNames: []
     hash: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
     type: OUT
   test.toc:
-    timeStamp: 2020-04-06T14:57:39.871Z
+    timeStamp: 2020-04-06T15:22:11.453Z
     jobNames: []
     hash: sVz9yFHEBiAXRi2lre1nscIqVa0PSZHDk6O1j8bDIhs=
     type: TableOfContents
-  'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc':
-    timeStamp: 2009-10-07T18:04:00.000Z
-    jobNames: []
-  'C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb':
-    timeStamp: 2009-10-07T18:04:00.000Z
-    jobNames: []
 rules:
   - name: ApplyOptions
     command: load
@@ -3849,6 +3849,10 @@ rules:
         type: default
       - file: >-
           C:\Users\Felix\AppData\Local\Programs\MiKTeX
+          2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+        type: default
+      - file: >-
+          C:\Users\Felix\AppData\Local\Programs\MiKTeX
           2.9\fonts\enc\dvips\lm\lm-rm.enc
         type: default
       - file: >-
@@ -3934,6 +3938,10 @@ rules:
       - file: >-
           C:\Users\Felix\AppData\Local\Programs\MiKTeX
           2.9\fonts\type1\public\lm\lmssbx10.pfb
+        type: default
+      - file: >-
+          C:\Users\Felix\AppData\Local\Programs\MiKTeX
+          2.9\fonts\type1\public\lm\lmsy10.pfb
         type: default
       - file: >-
           C:\Users\Felix\AppData\Local\Programs\MiKTeX
@@ -4423,17 +4431,7 @@ rules:
         type: default
       - file: test.toc
         type: default
-      - file: >-
-          C:\Users\Felix\AppData\Local\Programs\MiKTeX
-          2.9\fonts\enc\dvips\lm\lm-mathsy.enc
-        type: default
-      - file: >-
-          C:\Users\Felix\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\public\lm\lmsy10.pfb
-        type: default
     outputs:
-      - file: test.pdf
-        type: target
       - file: test.aux
         type: default
       - file: test.fls
@@ -4442,9 +4440,33 @@ rules:
         type: default
       - file: test.synctex.gz
         type: target
+      - file: test.pdf
+        type: target
       - file: test.out
         type: default
       - file: test.toc
+        type: default
+  - name: ParseLaTeXAuxilary
+    command: build
+    phase: execute
+    parameters:
+      - test.aux
+    inputs:
+      - file: test.aux
+        type: default
+    outputs:
+      - file: test.aux-ParsedLaTeXAuxilary
+        type: default
+  - name: ParseFileListing
+    command: build
+    phase: execute
+    parameters:
+      - test.fls
+    inputs:
+      - file: test.fls
+        type: default
+    outputs:
+      - file: test.fls-ParsedFileListing
         type: default
   - name: ParseLaTeXLog
     command: build
@@ -4478,6 +4500,15 @@ rules:
     parameters: []
     inputs: []
     outputs: []
+  - name: ReportLogMessages
+    command: log
+    phase: execute
+    parameters:
+      - test.log-ParsedLaTeXLog
+    inputs:
+      - file: test.log-ParsedLaTeXLog
+        type: default
+    outputs: []
   - name: ParseLaTeXLog
     command: log
     phase: execute
@@ -4489,45 +4520,8 @@ rules:
     outputs:
       - file: test.log-ParsedLaTeXLog
         type: default
-  - name: ReportLogMessages
-    command: log
-    phase: execute
-    parameters:
-      - test.log-ParsedLaTeXLog
-    inputs:
-      - file: test.log-ParsedLaTeXLog
-        type: default
-    outputs: []
   - name: SaveCache
     command: save
-    phase: execute
-    parameters: []
-    inputs: []
-    outputs: []
-  - name: ParseLaTeXAuxilary
-    command: build
-    phase: execute
-    parameters:
-      - test.aux
-    inputs:
-      - file: test.aux
-        type: default
-    outputs:
-      - file: test.aux-ParsedLaTeXAuxilary
-        type: default
-  - name: ParseFileListing
-    command: build
-    phase: execute
-    parameters:
-      - test.fls
-    inputs:
-      - file: test.fls
-        type: default
-    outputs:
-      - file: test.fls-ParsedFileListing
-        type: default
-  - name: Clean
-    command: clean
     phase: execute
     parameters: []
     inputs: []

@@ -1,6 +1,6 @@
-PWD C:/Users/Felix/github/Atom/Atom
+PWD C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings
 INPUT C:/Users/Felix/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
-INPUT C:/Users/Felix/github/Atom/Atom/test.tex
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.tex
 OUTPUT test.log
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/koma-script/scrartcl.cls
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/koma-script/scrartcl.cls
@@ -185,19 +185,19 @@ INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendl
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
-INPUT C:/Users/Felix/github/Atom/Atom/test.aux
-INPUT C:/Users/Felix/github/Atom/Atom/test.aux
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.aux
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.aux
 OUTPUT test.aux
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
 OUTPUT test.out
 OUTPUT test.pdf
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/bookmark.sty
@@ -215,8 +215,8 @@ INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/lm/t1lmss.fd
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/ec-lmss10.tfm
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT C:/Users/Felix/github/Atom/Atom/test.toc
-INPUT C:/Users/Felix/github/Atom/Atom/test.toc
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.toc
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.toc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/lm/ot1lmr.fd
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/tex/latex/lm/ot1lmr.fd
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/rm-lmr10.tfm
@@ -239,9 +239,9 @@ OUTPUT test.toc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
-INPUT C:/Users/Felix/github/Atom/Atom/test.aux
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
-INPUT C:/Users/Felix/github/Atom/Atom/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.aux
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc
