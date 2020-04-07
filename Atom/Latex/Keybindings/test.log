@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.10.17)  6 APR 2020 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.10.17)  7 APR 2020 12:27
 entering extended mode
 **C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.tex
 (C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.tex
@@ -1172,34 +1172,43 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language append on input line 50.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 63.
+(babel)             in language append on input line 67.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 63.
+(babel)             in language append on input line 67.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 64.
+(babel)             in language append on input line 79.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 64.
+(babel)             in language append on input line 79.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 64.
+(babel)             in language append on input line 79.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 64.
+(babel)             in language append on input line 79.
 [1
 
 {C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 81.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 81.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 81.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 81.
+[2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
 (C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
 Package rerunfilecheck Info: File `test.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 20158 strings out of 493305
- 405470 string characters out of 3129801
+ 20162 strings out of 493305
+ 405509 string characters out of 3129801
  577049 words of memory out of 3000000
- 23365 multiletter control sequences out of 15000+200000
+ 23367 multiletter control sequences out of 15000+200000
  32789 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,8n,81p,10123b,823s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1214,9 +1223,9 @@ lic/lm/lmmi10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 pe1/public/lm/lmr8.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/lm/lmssbx10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/lm/lmsy10.pfb>
-Output written on test.pdf (1 page, 110625 bytes).
+Output written on test.pdf (2 pages, 115017 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 72 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 

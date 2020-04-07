@@ -73,7 +73,7 @@ options:
     2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
 files:
   dicy-instance.yaml-ParsedYAML:
-    timeStamp: 2020-04-06T15:22:03.768Z
+    timeStamp: 2020-04-07T09:20:57.118Z
     jobNames: []
     value:
       severity: info
@@ -134,13 +134,13 @@ files:
         2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
     type: ParsedYAML
   test.tex:
-    timeStamp: 2020-04-06T15:22:03.715Z
+    timeStamp: 2020-04-07T10:27:56.042Z
     jobNames: []
-    hash: tQTq/F53b1x8LKYJMpz0qDN815neZwzNaxuQWBz7JuY=
+    hash: 42/PAKN5fj4aGNIZeQiNNm++IHjfWWoLTOpBc1FmJck=
     type: LaTeX
     subType: scrartcl
   'C:\Users\Felix\AppData\Roaming\dicy\config.yaml':
-    timeStamp: 2020-04-06T15:17:49.710Z
+    timeStamp: 2020-04-07T09:20:57.137Z
     jobNames: []
     type: YAML
   x.y-Nil:
@@ -608,7 +608,7 @@ files:
       calls: []
     type: ParsedFileListing
   test.log-ParsedLaTeXLog:
-    timeStamp: 2020-04-06T15:22:11.772Z
+    timeStamp: 2020-04-07T10:28:01.343Z
     jobNames: []
     value:
       messages:
@@ -2956,8 +2956,8 @@ files:
           source:
             file: test.tex
             range:
-              start: 63
-              end: 63
+              start: 67
+              end: 67
           log:
             file: test.log
             range:
@@ -2970,8 +2970,8 @@ files:
           source:
             file: test.tex
             range:
-              start: 63
-              end: 63
+              start: 67
+              end: 67
           log:
             file: test.log
             range:
@@ -2984,8 +2984,8 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 79
+              end: 79
           log:
             file: test.log
             range:
@@ -2998,8 +2998,8 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 79
+              end: 79
           log:
             file: test.log
             range:
@@ -3012,8 +3012,8 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 79
+              end: 79
           log:
             file: test.log
             range:
@@ -3026,8 +3026,8 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 79
+              end: 79
           log:
             file: test.log
             range:
@@ -3035,18 +3035,74 @@ files:
               end: 1185
         - severity: info
           name: pdfTeX
+          category: Package babel
+          text: Redefining ngerman shorthand "| in language append.
+          source:
+            file: test.tex
+            range:
+              start: 81
+              end: 81
+          log:
+            file: test.log
+            range:
+              start: 1189
+              end: 1190
+        - severity: info
+          name: pdfTeX
+          category: Package babel
+          text: Redefining ngerman shorthand "~ in language append.
+          source:
+            file: test.tex
+            range:
+              start: 81
+              end: 81
+          log:
+            file: test.log
+            range:
+              start: 1191
+              end: 1192
+        - severity: info
+          name: pdfTeX
+          category: Package babel
+          text: Redefining ngerman shorthand "| in language append.
+          source:
+            file: test.tex
+            range:
+              start: 81
+              end: 81
+          log:
+            file: test.log
+            range:
+              start: 1193
+              end: 1194
+        - severity: info
+          name: pdfTeX
+          category: Package babel
+          text: Redefining ngerman shorthand "~ in language append.
+          source:
+            file: test.tex
+            range:
+              start: 81
+              end: 81
+          log:
+            file: test.log
+            range:
+              start: 1195
+              end: 1196
+        - severity: info
+          name: pdfTeX
           category: Package atveryend
           text: Empty hook `BeforeClearDocument'
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 81
+              end: 81
           log:
             file: test.log
             range:
-              start: 1189
-              end: 1189
+              start: 1198
+              end: 1198
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3054,13 +3110,13 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 81
+              end: 81
           log:
             file: test.log
             range:
-              start: 1190
-              end: 1190
+              start: 1199
+              end: 1199
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3068,13 +3124,13 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 81
+              end: 81
           log:
             file: test.log
             range:
-              start: 1192
-              end: 1192
+              start: 1201
+              end: 1201
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3082,13 +3138,13 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 81
+              end: 81
           log:
             file: test.log
             range:
-              start: 1193
-              end: 1193
+              start: 1202
+              end: 1202
         - severity: info
           name: pdfTeX
           category: Package rerunfilecheck
@@ -3100,8 +3156,8 @@ files:
           log:
             file: test.log
             range:
-              start: 1194
-              end: 1195
+              start: 1203
+              end: 1204
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3109,46 +3165,41 @@ files:
           source:
             file: test.tex
             range:
-              start: 64
-              end: 64
+              start: 81
+              end: 81
           log:
             file: test.log
             range:
-              start: 1196
-              end: 1196
+              start: 1205
+              end: 1205
       inputs: []
       outputs:
         - test.pdf
       calls: []
     type: ParsedLaTeXLog
   test.aux:
-    timeStamp: 2020-04-06T15:22:11.446Z
+    timeStamp: 2020-04-07T10:28:01.001Z
     jobNames: []
-    hash: 6Al6Z/Qh2LTRexXteh0KKoEzcEQatiW2lV4awmHW/4M=
+    hash: DvVpTJZvSEa1SRFwZOqsbCbkeWD7R15mVDAWwxgqlcg=
     type: LaTeXAuxilary
   test.fls:
-    timeStamp: 2020-04-06T15:22:11.558Z
+    timeStamp: 2020-04-07T10:28:01.116Z
     jobNames: []
     hash: ELdTCCS1lZHu8rQ2cTUIJB4TWBgCpSyzAxpxH937FBA=
     type: FileListing
   test.log:
-    timeStamp: 2020-04-06T15:22:11.550Z
+    timeStamp: 2020-04-07T10:28:01.111Z
     jobNames: []
-    hash: LXG7OP8KW3iaI5gBEZXa1Lkzp3eBU2lV9u9n4yfXJiU=
+    hash: TGhbit/F6f65EqfNAFTO3c/4UX2q0wzfuEd9hjkikcE=
     type: LaTeXLog
     subType: pdfTeX
-  test.synctex.gz:
-    timeStamp: 2020-04-06T15:22:11.547Z
-    jobNames: []
-    hash: 1zplSv4nHc0tlAxDO+1S3akSCYMtNdHLevCWWiMVoWQ=
-    type: SyncTeX
   test.pdf:
-    timeStamp: 2020-04-06T15:22:11.546Z
+    timeStamp: 2020-04-07T10:28:01.107Z
     jobNames: []
-    hash: LmvKX+0bfjBazCffIoXD7gqp/m3ycqe0ZRxrjWKtXZ8=
+    hash: 1qmQ5WOwpIaJqGZLR8BtJ/aVnbQN0tV06DLyNbqeK5I=
     type: PortableDocumentFormat
   test.aux-ParsedLaTeXAuxilary:
-    timeStamp: 2020-04-06T15:22:11.668Z
+    timeStamp: 2020-04-07T10:25:03.931Z
     jobNames: []
     value:
       commands:
@@ -3180,6 +3231,8 @@ files:
         - '@writefile'
         - '@writefile'
         - '@writefile'
+        - '@writefile'
+        - newlabel
         - global
         - global
         - global
@@ -3733,15 +3786,20 @@ files:
     jobNames: []
     type: LaTeXStyle
   test.out:
-    timeStamp: 2020-04-06T15:22:11.115Z
+    timeStamp: 2020-04-07T10:28:00.537Z
     jobNames: []
     hash: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
     type: OUT
   test.toc:
-    timeStamp: 2020-04-06T15:22:11.453Z
+    timeStamp: 2020-04-07T10:28:01.012Z
     jobNames: []
-    hash: sVz9yFHEBiAXRi2lre1nscIqVa0PSZHDk6O1j8bDIhs=
+    hash: cHzyJf8W/dPmjB9qaI7oEUaFkN8m53dNVwWZsA6Rs5c=
     type: TableOfContents
+  test.synctex.gz:
+    timeStamp: 2020-04-07T10:28:01.110Z
+    jobNames: []
+    hash: QbpyGTsOJTJfwY/8e9Nu0x0ZL73OEL2lsyrGI6gZGAk=
+    type: SyncTeX
 rules:
   - name: ApplyOptions
     command: load
@@ -4438,14 +4496,14 @@ rules:
         type: default
       - file: test.log
         type: default
-      - file: test.synctex.gz
-        type: target
       - file: test.pdf
         type: target
       - file: test.out
         type: default
       - file: test.toc
         type: default
+      - file: test.synctex.gz
+        type: target
   - name: ParseLaTeXAuxilary
     command: build
     phase: execute
