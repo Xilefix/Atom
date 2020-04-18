@@ -239,17 +239,26 @@ OUTPUT test.toc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/testbild.jpg
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/testbild.jpg
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/testbild.jpg
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/testbild.jpg
+INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/testbild.jpg
 INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.aux
 INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
 INPUT C:/Users/Felix/Documents/GitHub/Atom/Atom/Latex/Keybindings/test.out
-INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc
-INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc
+INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc
+INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb
+INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb
+INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb
+INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb
+INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb
 INPUT C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb

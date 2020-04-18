@@ -28,54 +28,73 @@
 
 \begin{document}
 \tableofcontents
-  \begin{tikzpicture}[auto, thick]
-    \node[initial, state] (q0) {$q_0$};
-    \node[state, right=of q0] (q1) {$q_1$};
-    \node[state, accepting, right=of q1]
-      (q2) {$q_2$};
-    \path (q0) edge[->] node {0} (q1)
-          (q1) edge[->, loop above] node {0} ()
-               edge[->, bend left] node {1} (q2)
-          (q2) edge[->, bend left] node {0} (q1);
-  \end{tikzpicture}
+\begin{tikzpicture}[auto, thick]
+ \node[initial, state] (q0) {$q_0$};
+ \node[state, right=of q0] (q1) {$q_1$};
+ \node[state, accepting, right=of q1]
+ (q2) {$q_2$};
+ \path (q0) edge[->] node {0} (q1)
+ (q1) edge[->, loop above] node {0} ()
+ edge[->, bend left] node {1} (q2)
+ (q2) edge[->, bend left] node {0} (q1);
+\end{tikzpicture}
 
-  \section{Kapitel}
-  test zeilenumbruch\\
-  testende
+\section{Kapitel}
+test zeilenumbruch\\
+testende
 
-  \textbf{test zeilenumbruch}
+Wir setzen \(a^{n_{L}}b^{n_{L}}\in L_2 \) mit \(|z|=2n_{L}\leq n_L\). Also existiert eine Zerlegung \(z=uvw\) mit
+
+
+
+\begin{enumerate}
+  \item
+\end{enumerate}
+
+
+\textbf{test zeilenumbruch}sds
 
 testende
 
-  \subsection{Subsection}
-  \begin{enumerate}
-    \item
-    ctrl+shift +7 für Auskommentieren an/aus
-    \item
-    \(\$\$\) für displaymath und nur eins für inlinemath
-    \item
-    ctrl+alt+7 für \(\{\}\) um Markierung
-    \item
-    test
+\subsection{Subsection}
+\begin{enumerate}
+ \item
+       ctrl+shift +7 für Auskommentieren an/aus
+ \item
+       \(\$\$\) für displaymath und nur eins für inlinemath
+ \item
+       ctrl+alt+7 für \(\{\}\) um Markierung
+ \item
+       \ref{tbl:einwohner}testref
 
-  \end{enumerate}
+       \begin{figure}
+        \begin{center}
+         \includegraphics[width=4cm]{testbild.jpg}
+        \end{center}
+        \caption{T-shirt}
+        \label{fig: tshirt}
+       \end{figure}
+
+
+
+\end{enumerate}
 
 \begin{description}
-  \item[Gummibär] gummi
-  \item[ich] person
+ \item[Gummibär] gummi
+ \item[ich] person
 \end{description}
-  \subsubsection{Subsub}
-  % h als option steht für die Positon wo es definiert wurde
-  \begin{table}[h]
-    \centering
-    \begin{tabular}{l|ll}
-      \textbf{Jahr} & \textbf{D} & \textbf{F}
-      \\  \hline
-      1990 & 34 & 54  \\
-      2000 & 64 & 89
-    \end{tabular}
-    \caption{Jahreszahlen}
-    \label{tbl:einwohner}
-  \end{table}
+\subsubsection{Subsub}
+% h als option steht für die Positon wo es definiert wurde
+\begin{table}[h]
+ \centering
+ \begin{tabular}{l|ll}
+  \textbf{Jahr} & \textbf{D} & \textbf{F}
+  \\  \hline
+  1990          & 34         & 54         \\
+  2000          & 64         & 89
+ \end{tabular}
+ \caption{Jahreszahlen}
+ \label{tbl:einwohner}
+\end{table}
 
 \end{document}
