@@ -1,0 +1,6 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Bedingungsanalyse (Beschreibung der Lerngruppe), Einordnung in den Lehrplan, Formulierung der Lernziele}{2}{section.1}%
+\contentsline {section}{\numberline {2}Tabellarischer Verlauf (Phasen, Fragestellungen, Gelenkstellen, methodisches Vorgehen)}{3}{section.2}%
+\contentsline {section}{\numberline {3}Beschreibung des tatsächlichen Verlaufs, Erläuterungen zu Abweichungen}{6}{section.3}%
+\contentsline {section}{\numberline {4}Reflexion der Lernziele, Reflexion der gewählten Methoden und Schlussfolgerungen für die eigene Arbeit. Gehen Sie hier besonders darauf ein, was Sie anders gemacht hätten, wenn Sie die ganze Klasse unter \enquote {Normalbedingungen} unterrichtet hätten!}{7}{section.4}%
+\contentsline {section}{\numberline {5}Material}{8}{section.5}%

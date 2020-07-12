@@ -1,0 +1,176 @@
+\documentclass[11pt]{scrartcl}
+
+% Kodierung dieser Datei angeben
+\usepackage[utf8]{inputenc}
+
+% Schönere Schriftart laden
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage {units}
+\usepackage{csquotes}
+
+% Tabelle im Querformat
+\usepackage{lscape}
+\usepackage{pdflscape}
+
+
+% Deutsche Silbentrennung verwenden
+\usepackage[ngerman]{babel}
+
+% Bessere Unterstützung für PDF-Features
+\usepackage[breaklinks=true]{hyperref}
+
+\KOMAoptions{%
+  % AbsÃ¤tze durch Abstände
+  parskip=full,%
+  % Satzspiegel berechnen lassen
+  DIV=calc%
+}
+
+% TikZ laden
+\usepackage{tikz}
+
+% Verwendete TikZ-Bibliotheken laden
+\usetikzlibrary{positioning,automata}
+\title{Klasse 10b Einführung in Verknüpfungen von Ereignissen und Vierfeldertafel}
+\author{Felix Liesendahl}
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+% 1. Allgemeine Fakten zur Lerngruppe
+% - Schule, Schulart
+% - Klasse, Kurs
+% - Anzahl der SuS
+% - soziale Zusammensetzung
+% - Sozialverhalten
+% - Lernklima, Lernmotivation
+% - Lernverhalten
+% - verhaltensproblematische SuS
+% - SuS mit Nachteilsausgleich
+% - SuS mit Gutachten
+% - Methodenkompetenz
+% - ……….
+% 2. Äußere Bedingungen
+% - Ausstattung des Raumes
+% - digitale Medien
+% - Sitzordnung
+% - Lernbegleiter
+% - Verortung der Stunde im Tagesablauf
+% - ………….
+% 3. Fachliche Lernvoraussetzungen
+% - allgemeiner Leistungsstand in Mathematik
+% - vorangegangener Unterricht und folgende Unterrichtsinhalte
+% - Vorwissen
+% - Akzeptanz verschiedener Unterrichtsformen und – Methoden
+\section{Lernvoraussetzungen}
+\begin{enumerate}
+  \item  Allgemeine Fakten zur Lerngruppe:
+  Der Unterricht soll in der Klasse 10b des Adolf-Reichwein-Gymnasiums stattfinden.
+  Die Klasse wurde wegen Corona in zwei Gruppen je 10 Schüler unterteilt.
+  Es gibt keine verhaltensproblematische oder ähnliche SuS.
+%   \begin{itemize}
+%     \item Schulart: Gymnasium
+%     \item Klasse, Kurs: 10, b
+%     \item Anzahl der SuS: 2 Gruppen je 10 Schüler
+%     \item verhaltensproblematische SuS: keine
+%       \end{itemize}
+
+  \item Äußere Bedingungen:
+  Der Raum besitzt eine Tafel, Beamer mit einem angeschlossenen Laptop. Die Verortung der Stunde im Tagesablauf wird vermutlich in der 3. oder 4. Stunde sein.\\
+%   \begin{itemize}
+%     \item Ausstattung des Raumes: Tafel, Beamer, Laptop
+%     \item digitale Medien: Beamer
+Sitzordnung:
+    \begin{center}
+\begin{tabular}{lll}
+ x- & x- & -x\\
+x - & -x & - -\\
+-x & x- & x-\\
+-x & -x & - -\\
+- - & - - & - -\\
+    &    & X\\
+    &  T  & B
+    \end{tabular}
+    \end{center}
+    Erläuterung der Sitzordnung: großes X steht für das Lehrerpult, kleine x sind die Schüler sowie T für Tafel und B für Beamer
+%     \item Verortung der Stunde im Tagesablauf: noch unbekannt vermutlich in der 3. oder 4. Stunde
+%   \end{itemize}
+  \item Fachliche Lernvoraussetzungen:
+  Im vorangegangenen Unterricht haben die SuS bereits die Themen Ereignisse, Wahrscheinlichkeiten von Ereignissen, Urnenmodelle, Erwartungswerte mit deren diskreten Wahrscheinlichkeitsverteilungen (erste Grundlagen ohne Spezialfälle) und Standardabweichungen.\\
+  Von den SuS kann daher erwartet werden, dass sie Ereignisse kennen und deren Wahrscheinlichkeiten berechnen können. Die SuS können mit Baumdiagrammen umgehen, kennen aber noch nicht die Vierfeldertafel.
+  Nach der geplanten Unterrichtsstunde soll das Thema diskrete Wahrscheinlichkeitsverteilungen vertieft durchgenommen werden.
+%   \begin{itemize}
+%     \item  allgemeiner Leistungsstand in Mathematik:
+%     \item vorangegangener Unterricht: Ereignisse, Wahrscheinlichkeiten, Urnenmodelle, Erwartungswerte, Standardabweichungen
+%     \item folgende Unterrichtsinhalte: Wahrscheinlichkeitsverteilungen
+%     \item Vorwissen: SuS kennen Ereignisse, können Wahrscheinlichkeiten von Ereignissen berechnen
+%   \end{itemize}
+\end{enumerate}
+
+\section{Lernziele}
+\begin{enumerate}
+  \item SuS können Ergeignisse verknüpfen und durch Symbole (z.B.: \(A \cup B,A \cap B, \bar A\)) beschreiben (Sachkompetenz).
+  \item SuS können zweistufige Zufallsexperimente mit Hilfe einer Vierfeldertafel veranschaulichen und die Absoluten Werte der Felder bestimmen (Sachkompetenz).
+  \item SuS lernen mathematisch zu modellieren (K3) (Methodenkompetenz).
+  \item SuS können die Ergebnisse stochastischer Berechnungen auf Plausibilität prüfen (Methodenkompetenz).
+\end{enumerate}
+
+% Überschriften mit Absätzen
+\newpage
+\begin{landscape}
+\section{Struktur der Stunde (Phasen)}
+\textbf{Klasse: 10b} \textbf{Datum: Juni} \textbf{Lehrer: Herr Liesendahl bei Frau Danckwerts}\\
+\textbf{Stundenthema:Stochastik: Einführung der Verknüpfung von Ereignissen und Vierfeldertafel}\\
+\textbf{Lernziele: Ergeignisse verknüpfen, Symbole (z.B.: \(A \cup B,A \cap B, \bar A\)) beschreiben, zweistufige Zufallsexperimente mit Hilfe einer Vierfeldertafel veranschaulichen, die Absoluten Werte der Felder bestimmen, mathematisch modellieren (K3),  Ergebnisse stochastischer Berechnungen auf Plausibilität prüfen}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}\hline
+Zeit min.& Phase & Lehrertätigkeit + mathem. Inhalt & Schülertätigkeit & Methode/Sozialform & Medien\\\hline
+2& Einf. & L begrüßt Klasse und führt in das Thema ein: & S hören zu & Lehrervortrag & Beamer\\\hline
+10 &  & Wdh. Ereignisse verknüpfen (siehe Powerpoint)  &  & Lehrer-Schüler-Gespräch & \\\hline
+2& Hauptt.& AB: Kopie der Seite 135 den Schülern austeilen  &  &  & AB\\\hline
+ 10&  &  Aufgabe an SuS: In Einzelarbeit durchzulesen  & S machen Aufgabe & selbstständige Arbeit & \\\hline
+ &  & erklären zu können &  &  & \\\hline
+ &  & Parallel dazu L erstellt Tafelbild&  &  & Tafel\\\hline
+5 &  & Besprechung Tafelbild & S stellen Fragen & im Plenum & Tafel\\\hline
+3 &  &  & S schr. Tafel ab &  & Tafel\\\hline
+12 &  & Bsp medizinischer Test (S. 135) im Plenum &  lesen, antworten&im Plenum  & Buch\\\hline
+ 1&  & Erteilung der HA: S.136 Nr. 1 und 2 & schreiben HA auf &  & \\\hline
+\end{tabular}
+\end{center}
+\end {landscape}
+
+
+
+\section{Arbeitsanweisungen/Gelenkstellen}
+
+
+\section{Tafelbild}
+
+
+\section{Methodenwahl}
+Diverse Wechsel der Methoden zu Lockerung des Unterrichtsgeschehens. Alternative wäre gewesen, erst ein Beispiel mit Zahlen vorzustellen und daran die neue Methode zu erläutern und die theoretischen Grundlagen daraus abzuleiten.
+Die Unterrichtsziele sind erfüllt, wenn die SuS ein einfaches Beispiel, wie die HA Nr. 1 selbstständig lösen und verstehen können.
+
+
+\section{Arbeitsmaterial}
+Buch Lambacher Schweitzer Seite 135/136\\
+Powerpointpräsenmtation\\
+Tafelbild\\
+siehe Anhang
+
+
+\section{Reflexion und Schlussfolgerung für die eigene Arbeit}
+Das Thema war viel anspruchsvoller als erwartet, da die Unterrichtsstunde zu wenig Zeit zum Unterrichten bietet, um ausführlich Grundlagen zu schaffen.
+
+
+
+
+
+
+
+
+
+
+\end{document}

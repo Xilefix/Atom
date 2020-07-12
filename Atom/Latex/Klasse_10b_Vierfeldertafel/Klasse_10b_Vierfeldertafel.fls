@@ -1,7 +1,7 @@
-PWD C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings
+PWD C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel
 INPUT C:\Users\Felix\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.tex
-OUTPUT test.log
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.tex
+OUTPUT Klasse_10b_Vierfeldertafel.log
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty
@@ -26,6 +26,20 @@ INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.st
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1095.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\units.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\units.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\nicefrac.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\nicefrac.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
@@ -36,34 +50,6 @@ INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ng
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ngermanb.ldf
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
@@ -226,23 +212,25 @@ INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendl
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.multipart.code.tex
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes.multipart.code.tex
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes.multipart.code.tex
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.aux
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.aux
-OUTPUT test.aux
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.aux
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.aux
+OUTPUT Klasse_10b_Vierfeldertafel.aux
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
-OUTPUT test.out
-OUTPUT test.pdf
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+OUTPUT Klasse_10b_Vierfeldertafel.out
+OUTPUT Klasse_10b_Vierfeldertafel.pdf
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bkm-pdftex.def
@@ -256,63 +244,50 @@ INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss10.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.toc
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.toc
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi8.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy8.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
-OUTPUT test.toc
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr8.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr6.tfm
-INPUT C:\Users\Felix\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\testbild.jpg
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\testbild.jpg
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\testbild.jpg
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\testbild.jpg
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\testbild.jpg
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.aux
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
-INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Keybindings\test.out
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.toc
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.toc
+OUTPUT Klasse_10b_Vierfeldertafel.toc
+INPUT C:\Users\Felix\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ts1-lmr10.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.aux
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+INPUT C:\Users\Felix\Documents\GitHub\Atom\Atom\Latex\Klasse_10b_Vierfeldertafel\Klasse_10b_Vierfeldertafel.out
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmcsc10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmcsc10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi6.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi6.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi8.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr8.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy8.pfb
-INPUT C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy8.pfb
