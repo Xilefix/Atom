@@ -1,0 +1,9 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Lernvoraussetzungen}{2}{section.1}%
+\contentsline {section}{\numberline {2}Lernziele}{3}{section.2}%
+\contentsline {section}{\numberline {3}Struktur der Stunde (Phasen)}{4}{section.3}%
+\contentsline {section}{\numberline {4}Arbeitsanweisungen/Gelenkstellen}{5}{section.4}%
+\contentsline {section}{\numberline {5}Tafelbild}{5}{section.5}%
+\contentsline {section}{\numberline {6}Methodenwahl}{5}{section.6}%
+\contentsline {section}{\numberline {7}Arbeitsmaterial}{5}{section.7}%
+\contentsline {section}{\numberline {8}Reflexion und Schlussfolgerung für die eigene Arbeit}{5}{section.8}%

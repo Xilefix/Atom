@@ -1,0 +1,76 @@
+\documentclass[12pt]{scrartcl}
+
+% Kodierung dieser Datei angeben
+\usepackage[utf8]{inputenc}
+
+% Schönere Schriftart laden
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage {units}
+\usepackage{csquotes}
+
+
+% Deutsche Silbentrennung verwenden
+\usepackage[ngerman]{babel}
+
+% Bessere Unterstützung für PDF-Features
+\usepackage[breaklinks=true]{hyperref}
+
+\KOMAoptions{%
+  % AbsÃ¤tze durch Abstände
+  parskip=full,%
+  % Satzspiegel berechnen lassen
+  DIV=calc%
+}
+
+% TikZ laden
+\usepackage{tikz}
+
+% Verwendete TikZ-Bibliotheken laden
+\usetikzlibrary{positioning,automata}
+\title{Leistungsbeurteilung 15.05.20}
+\author{Felix Liesendahl}
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+  \item Einstiegsüberlegung
+  \begin{enumerate}
+    \item Mikas Durchschnittsgeschwindigkeit ist kleiner als \unitfrac[10]{km}{h}, weil die Geschwindigkeit sich aus dem Verhältnis von Weg zur Zeit berechnet. Mika hat hingegen nicht die Zeit betrachtet, sondern nur die beiden Geschwindigkeiten. Die Zeit ändert sich aber für den Rückweg, da er die gleiche Strecke langsamer joggt und somit ist die benötigte Zeit länger, d.h. die Gewichtung der Zeit für die beiden Strecken ist nicht im gleichen Verhältnis.
+    Mit Hilfe eines Berechnungsbeispiels (hier 1km für die Strecke) kann die Durchschnittsgeschwindigkeit leicht ermittelt werden: Für den Hinweg ergibt sich somit eine Zeit von \(5\) min, wohingegen der Rückweg eine Zeit von \(7,5\) min beträgt.
+    Die Durchschnittsgeschwindigkeit berechnet sich nun mit dem Verhältnis Gesamtstrecke durch die Gesamtzeit. Damit ergibt sich ein Wert von \unitfrac[9,6]{km}{h}.
+    \item Die Endnote in Prozent wurde wie bei Mika falsch berechnet. Diese wurde aus dem Verhältnis der gesamt erreichten Punkte zu den gesamt möglichen Punkten berechnet, obwohl die Teilleistungen nicht alle die gleiche Anzahl an möglichen Punkten besitzen. Bei Mika war es das Verhältnis von Weg zur Zeit (die verschieden war).
+
+    Der korrekte mathematische Weg wäre, die prozentualen Teilleistungen als Arithmetisches Mittel zu nehmen.
+  \end{enumerate}\newpage
+  \item Erarbeitung
+
+  Das Kriterum der Objektivität kann nicht erfüllt sein, da eindeutige für jeden anzuwendende Bewertungen nicht vorlagen. Jeder Seminarteilnehmer hat seine eigenen Kriterien zugrunde gelegt und diese führten zu unterschiedlichen Bewertungen.
+
+  Das Kriterum der Reliabilität ist nicht nachweisbar, da keine Wiederholung des Experimentes durchgeführt wurde.
+
+  Das Kriterium der Validität kann, aber muss nicht erfüllt sein, da man nicht weiß, inwiefern die Bewertungskriterien für die Ermittlung der Güte des Quelltextes gut geeignet sind.
+
+  Im allgemeinen ist es sehr schwierig, alle drei Bewertungskriterien zu erfüllen, da ein Lehrer als Mensch immer auch subjektiv handelt und unterschiedliche Tagesformen hat.
+
+  \item Ergebnissicherung
+
+  Ich habe den Bewertungsbogen \enquote{Präsentationen} ausgewählt.\\
+  Vorteile:
+  \begin{itemize}
+    \item übersichtlich für Lehrer und Schüler
+    \item  einfache und schnelle Ermittlung von Punkten
+    \item Platz für kurzes Feedback
+  \end{itemize}
+  Nachteile:
+  \begin{itemize}
+    \item es fehlen Differenzierungsmöglichkeiten für Teilergebnisse, daher ungerecht\\
+      Anpassungsvorschlag: Statt ja nein, mehrere Spalten zur Differenzierung von Punkten(z.B. 1-8 Punkte)
+      \item Punkt Optik im Verhältnis zum Inhalt überbewertet\\
+      Anpassungsvorschlag: Weniger erreichbare Punkte für die Optik ansetzen
+      \item Gliederung und Quellenangabe gehören nicht zum Inhalt
+      \item Bei Rhetorik zu viele Punkte, einige Punkte, z.B. deutliche Aussprache und Sprechrhytmus sind sich zu ähnlich und daher überbewertet
+  \end{itemize}
+\end{enumerate}
+
+\end{document}

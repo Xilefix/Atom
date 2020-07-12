@@ -10,6 +10,14 @@
 % Deutsche Silbentrennung verwenden
 \usepackage[ngerman]{babel}
 
+% Anführungszeichen mit \enquote
+\usepackage{csquotes}
+
+\usepackage{amsmath}
+
+ \usepackage{amsthm}
+
+
 % Bessere Unterstützung für PDF-Features
 \usepackage[breaklinks=true]{hyperref}
 
@@ -43,18 +51,37 @@
 test zeilenumbruch\\
 testende
 
-Wir setzen \(a^{n_{L}}b^{n_{L}}\in L_2 \) mit \(|z|=2n_{L}\leq n_L\). Also existiert eine Zerlegung \(z=uvw\) mit
+Wir setzen \(a^{n_{L}}b^{n_{L}}\in L \) mit \(|z|=2n_{L}\leq n_L\). Also existiert eine Zerlegung \(z=uvw\) mit
 
+
+
+
+% \nopunct und [] zum �ndern der �berschrift
+  \begin{proof}[\nopunct]
+  %\tag f�r Beschriftung der Formel
+  \begin{align*}
+    \intertext{Bew:}
+      S &\Rightarrow^* a^nAb^nc^n \tag{IV}\\
+      &\Rightarrow^* a^nb^nAc^n \tag{n-mal 14}\\
+      &\Rightarrow a^nb^nBbccc^{n-1} \tag{15}\\
+      &\Rightarrow^* a^nBb^{n+1}c^{n+1} \tag{n-mal 16}\\
+      &\Rightarrow a^{n+1}b^{n+1}c^{n+1}\in \text{L(G)} \tag{17}\\
+      \intertext{oder:}
+      &\Rightarrow a^{n+1}Ab^{n+1}c^{n+1}\in \text{L(G)} \tag{18}
+  \end{align*}
+  \end{proof}
 
 
 \begin{enumerate}
-  \item
+  \item\(|uv|\leq n_L\)
 \end{enumerate}
 
 
 \textbf{test zeilenumbruch}sds
 
 testende
+\textsc{Packungen}.
+\enquote{Packungen}
 
 \subsection{Subsection}
 \begin{enumerate}
